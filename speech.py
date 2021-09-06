@@ -15,7 +15,7 @@ if not s.path.exists(p):
     
 txt=''
 lst1=['what is your name','how are you','who are you','what is the time now','search','find location','exit','how old are you','play national anthem']
-lst2=['my name is chinnna gadu','i am fine how do you do','i am your friend',time.ctime(),'what do you want to search for?','which place do you want to locate','x','i am 19 years old','Ok I request all my friends to standup at their places, while playing a National Anthem Thank You']
+lst2=['my name is Lexi','i am fine how do you do','i am your friend',time.ctime(),'what do you want to search for?','which place do you want to locate','x','i am 19 years old','Ok I request all my friends to standup at their places, while playing a National Anthem Thank You']
 
 def speakout():
     txt=SpeakText()
